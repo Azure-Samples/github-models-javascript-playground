@@ -65,3 +65,5 @@ Here are some additional resources to help you learn more about generative AI:
 
 ### Other playgrounds
 - [Ollama JavaScript Playground](https://github.com/Azure-Samples/ollama-javascript-playground/)
+- [Ollama Python Playground](https://github.com/pamelafox/ollama-python-playground/)
+- [Ollama C# Playground](https://github.com/elbruno/Ollama-CSharp-Playground)
