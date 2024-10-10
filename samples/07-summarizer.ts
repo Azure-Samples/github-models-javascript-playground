@@ -10,7 +10,7 @@ import { OpenAI } from "openai";
 const systemPrompt = `Rewrite this text into a very brief summary.`;
 
 // Load a large text
-const text = fs.readFileSync("./data/ai_wikipedia.txt", "utf8");
+const text = fs.readFileSync("./data/gh_wikipedia.txt", "utf8");
 
 const openai = new OpenAI({
   baseURL: "https://models.inference.ai.azure.com",
