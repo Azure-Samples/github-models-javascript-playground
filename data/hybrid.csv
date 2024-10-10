@@ -1,4 +1,4 @@
-vehicle,year,msrp,acceleration,mpg,class
+vehicle,year,msrp,0-60 mph acceleration,mpg,class
 Prius (1st Gen),1997,24509.74,7.46,41.26,Compact
 Tino,2000,35354.97,8.2,54.1,Compact
 Prius (2nd Gen),2000,26832.25,7.97,45.23,Compact
