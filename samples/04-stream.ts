@@ -11,7 +11,7 @@ const openai = new OpenAI({
 
 const chunks = await openai.chat.completions.create({
   model: "gpt-4o-mini",
-  messages: [{ role: "user", content: "Say hello in pirate style. Be brief with nothing else." }],
+  messages: [{ role: "user", content: "Say hello in pirate style, then tell a pirate joke." }],
   stream: true,
 });
 
