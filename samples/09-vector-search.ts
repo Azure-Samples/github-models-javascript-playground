@@ -53,7 +53,7 @@ if (!(await index.isIndexCreated())) {
 
 // Transform the query into a vector
 const queryEmbedding = await openai.embeddings.create({
-  model: "all-minilm:l6-v2",
+  model: "text-embedding-3-small",
   input: query,
 });
 const vector = queryEmbedding.data[0].embedding;
