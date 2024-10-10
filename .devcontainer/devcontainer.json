@@ -23,7 +23,7 @@
     }
   },
 
-  "postCreateCommand": "deno jupyter --install; npm install",
+  "postCreateCommand": "npm install -g tsx; deno jupyter --install; npm install",
 
   // Set minimal host requirements for the container.
   "hostRequirements": {
