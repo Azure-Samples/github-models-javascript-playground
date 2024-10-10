@@ -20,6 +20,9 @@
 Try out generative AI models right in your browser for free using this playground! ✨
 
 Using [GitHub Codespaces](https://github.com/features/codespaces) and [GitHub Models](https://github.com/marketplace/models), you'll be able to run LLMs (*Large Language Models)* such as [Open AI GPT-4o](https://github.com/marketplace/models/azure-openai/gpt-4o) directly in your browser, without having to install anything.
+
+> [!NOTE]
+> GitHub Models is currently in [limited public beta](https://github.blog/news-insights/product-news/introducing-github-models/), and you can request access by signing up [here](https://github.com/marketplace/models/waitlist/join). Features and availability are subject to change.
  
 ## Usage
 
