@@ -1,4 +1,4 @@
-// This example demonstrates how to use the OpenAI API to analyse pictures.
+// This example demonstrates how to use the OpenAI API to analyze pictures.
 
 import process from "node:process";
 import fs from "node:fs";
